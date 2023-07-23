@@ -1,4 +1,4 @@
-# WeatherApp - README
+# Şehir Hava - README
 
 ![WeatherApp Logo](app/src/main/ic_launcher-playstore.png)
 
